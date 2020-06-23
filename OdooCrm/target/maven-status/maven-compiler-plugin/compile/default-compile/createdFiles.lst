@@ -1,0 +1,12 @@
+com\odoo\webutils\BrowserFactory.class
+com\odoo\webutils\ChromeCapabilities.class
+com\odoo\steps\LoginSteps.class
+com\odoo\generic\Driver.class
+com\odoo\generic\ExcelLib$1.class
+com\odoo\generic\GenericLib.class
+com\odoo\pageobject\LoginPage.class
+com\odoo\generic\ExcelLib.class
+com\odoo\generic\PageLib.class
+com\odoo\webutils\FirefoxCapabilities.class
+com\odoo\webutils\OdooListeners.class
+com\odoo\features\LoginFeature.class

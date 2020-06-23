@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 2.077 s <<< FAILURE! - in TestSuite
+com.odoo.scripts.LoginTest.setUp  Time elapsed: 1.619 s  <<< FAILURE!
+java.lang.NullPointerException
+
